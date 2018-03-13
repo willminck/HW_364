@@ -2,24 +2,33 @@
 
 ### DEADLINE: March 29, 2018 at 11:59 pm
 
+**You should read all of the below before beginning to ensure you set yourself up well and submit the assignment correctly.**
+
 ## Overview
 
 You've been provided some scaffolding code. On top of the provided code, you'll need to add a number of things to make this application work fully, each marked by `TODO 364` inside the `app.py` file.
 
-Your overall objective is to complete building an application that will allow you to search for gifs via [the Giphy api](urltba.com), store all searches performed on the app, and allow users to register accounts and log in to save their own personal collections of gifs. For example, a logged in user could save several different gif collections with different names -- *Excited Gifs*, *Happy birthday gifs*, whatever they want.
+Each `TODO` listed for you is intended to be a small-to-medium size task. In general, you can go through the file top to bottom to address each one, but we've included suggestions in the comments about any time it makes sense to work on a TODO that comes later in the file first.
+
+Your overall objective is to complete building an application that will allow you to search for gifs via [the Giphy api](https://developers.giphy.com/), store all searches performed on the app, and allow users to register accounts and log in to save their own personal collections of gifs.
+
+![Ron Swanson from Parks and Recreation, dancing](https://media.giphy.com/media/iOz3p2txHIo4U/giphy.gif)
+
+For example, a logged in user could save several different gif collections with different names -- *Excited Gifs*, *Happy birthday gifs*, whatever they want. (**Example page screenshots will follow shortly, but you can already get started with the templates and complete directions given!**)
 
 * Associating data with a user's login using database relationships (and migrations)
 * Building and using many-to-many relationships
 * Practicing using SQLAlchemy for database queries and dealing with query results
 * Building functions for the `get_or_create` operation that work with a database structure that includes many-to-many relationships
-* More making code work with existing templates
+* Making back-end code work with existing templates
 
 ## Instructions
 
 * First, check out the **to submit** instructions so you know how to begin work on this!
-* Check out `app.py` and complete the `TODO 364` todo items one by one.
+* Check out `app.py`, scan through it, read the comments, and complete the `TODO 364` todo items one by one.
+* Identify anything in the `TODO` comments you are confused about so you can ask questions ASAP.
 * Make sure to debug along the way!
-* Then ensure you have everything committed and pushed to your new GitHub repo to submit the link properly to Canvas. *Again, see below for specific submission instructions.*
+* Then ensure you have everything committed properly and pushed to your new GitHub repo to submit the link properly to Canvas.
 
 ## To submit (read ALL the below before beginning)
 
