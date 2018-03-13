@@ -1,4 +1,4 @@
-api_key = "" # Fill in your API key here to run this.
+api_key = "" # Fill in your API key here.
 
 # TODO 364: To get a Giphy API key to paste here,
 # Go to https://developers.giphy.com/
