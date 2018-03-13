@@ -16,6 +16,8 @@ Your overall objective is to complete building an application that will allow yo
 
 For example, a logged in user could save several different gif collections with different names -- *Excited Gifs*, *Happy birthday gifs*, whatever they want. (**Example page screenshots will follow shortly, but you can already get started with the templates and complete directions given!**)
 
+You will be:
+
 * Associating data with a user's login using database relationships (and migrations)
 * Building and using many-to-many relationships
 * Practicing using SQLAlchemy for database queries and dealing with query results
