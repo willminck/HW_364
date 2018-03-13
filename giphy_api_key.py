@@ -1,4 +1,4 @@
-api_key = "jsAC1ZXQaZlwHGh3GzjxjiXTu0KiU6bX" # Fill in your API key here to run this.
+api_key = "" # Fill in your API key here to run this.
 
 # TODO 364: To get a Giphy API key to paste here,
 # Go to https://developers.giphy.com/
@@ -13,5 +13,5 @@ api_key = "jsAC1ZXQaZlwHGh3GzjxjiXTu0KiU6bX" # Fill in your API key here to run 
 # TODO 364: Add this file name:
 # giphy_api_key.py
 # to the included .gitignore file.
-# Then save, add, and commit the .gitignore file.
+# Then save, add, and commit the .gitignore file to YOUR git repository.
 # That means Git won't let you commit THIS file any longer -- so when the assignment is graded, we will use our own, not yours.
