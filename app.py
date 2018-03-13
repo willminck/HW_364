@@ -1,9 +1,9 @@
 # __authors__ = Jackie Cohen, Maulishree Pandey
 # An application in Flask where you can log in and create user accounts to save Gif collections
 
-# TODO 364: Check out the included file giphy_api_key.py and follow the instructions there before proceeding to view functions.
+# TODO 364: Check out the included file giphy_api_key.py and follow the instructions in TODOs there before proceeding to view functions.
 
-# TODO 364: All templates you need are provided and should not be edited. However, you may need to inspect the templates that exist in order to make sure you send them the right data!
+# TODO 364: All templates you need are provided and should not be edited. However, you will need to inspect the templates that exist in order to make sure you send them the right data!
 
 # Import statements
 import os
