@@ -1,3 +1,5 @@
+{% extends 'index.html' %}
+{% block main_content %}
 <h1>Login</h1>
 
 <div>
@@ -6,7 +8,6 @@
 {% endfor %}
 </div>
 
-
 <form method="POST">
 	{{ form.hidden_tag() }}
 	{{ form.email.label }} {{ form.email() }}
@@ -14,5 +15,7 @@
 	{{ form.submit.label }}{{ form.submit() }}
 </form>
 
-<p>New user></p>
-<a href="{{ url_for('register') }}">Click here to register</a>
+<p>New user?
+<a href="{{ url_for('register') }}">Click here to register</a> </p>
+
+{% endblock %}
