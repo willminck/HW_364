@@ -1,6 +1,6 @@
-# SI 364 - W18 - HW4
+# SI 364 - F18 - HW4
 
-### DEADLINE: March 25, 2018 at 11:59 pm
+### DEADLINE: November 27, 2018 at 11:59 pm
 
 **You should read all of the below before beginning to ensure you set yourself up well and submit the assignment correctly.**
 
@@ -40,12 +40,6 @@ Follow the instructions inside `giphy_api_key.py`. *Then*, create a git reposito
 
 Then, just as you did for the midterm assignment, create a GitHub repository for HW4 on your account called `HW4_364`. (It must be called this to be graded.)
 
-You may create a private repository if you want, and if you do that, you **must also add all three of us instructors as collaborators to your repository. Otherwise we will not be able to see and grade it**.
-
-**[Here](https://help.github.com/articles/applying-for-a-student-developer-pack/)** is how to get a GitHub student developer pack so you can have unlimited private repositories. (The student developer pack also includes access to a bunch of other useful/fun software tools! It is free for all students; follow the instructions at that link.)
-
 Push *all* of the code files, including any additional files you add and all included files, to this GitHub repository.
-
-[Check out the midterm instructions](https://github.com/SI364-Winter2018/Midterm-Instructions) for a reminder of how to add all 3 of us instructors (Jackie, Mauli, Sonakshi) as collaborators to the repository you submit.
 
 Submit the link to your GitHub repository on the Canvas assignment for HW4. It should take the form of: `https://github.com/YOURGITHUBUSERNAME/HW4_364`
