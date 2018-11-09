@@ -14,7 +14,7 @@ Your overall objective is to complete building an application that will allow yo
 
 ![Ron Swanson from Parks and Recreation, dancing](https://media.giphy.com/media/iOz3p2txHIo4U/giphy.gif)
 
-For example, a logged in user could save several different gif collections with different names -- *Excited Gifs*, *Happy birthday gifs*, whatever they want. (**Example page screenshots will follow shortly, but you can already get started with the templates and complete directions given!**)
+For example, a logged in user could save several different gif collections with different names -- *Excited Gifs*, *Happy birthday gifs*, whatever they want.
 
 You will be:
 
@@ -38,7 +38,7 @@ You will be:
 
 Follow the instructions inside `giphy_api_key.py`. *Then*, create a git repository inside that directory on your computer and commit all the files to your git repository.
 
-Then, just as you did for the midterm assignment, create a GitHub repository for HW4 on your account called `HW4_364`. (It must be called this to be graded.)
+Then, just as you did for the midterm assignment, create a GitHub repository for HW4 on your account called `HW4_364`.
 
 Push *all* of the code files, including any additional files you add and all included files, to this GitHub repository.
 
