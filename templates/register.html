@@ -5,6 +5,7 @@
  {{ super() }}
 {% endblock %}
 
+{% block main_content %}
 <form method="POST">
 	{{ form.hidden_tag() }}
 	{{ form.email.label }} {{ form.email() }}
@@ -13,3 +14,4 @@
     {{ form.password2.label }} {{ form.password2() }}
 	{{ form.submit.label }}{{ form.submit() }}
 </form>
+{% endblock %}
